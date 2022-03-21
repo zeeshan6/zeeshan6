@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeeshan6
-- 👀 I’m interested in React Native and React Developing
-- 🌱 I’m currently learning MERN Stack... || Unity 
+- 👀 I’m Full Stack React Native and React Developer
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Innovative Solutions 
 - 📫 How to reach me zeedev16@gmail.com
 
