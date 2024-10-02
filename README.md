@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeeshan6
-- 👀 I’m Full Stack React Native and React Developer
-- 🌱 I’m currently learning AI
+- 👀 I’m Full Stack Developer (MERN and React Native)
+- 🌱 I’m currently learning openAI
 - 💞️ I’m looking to collaborate on Innovative Solutions 
 - 📫 How to reach me zeedev16@gmail.com
 
